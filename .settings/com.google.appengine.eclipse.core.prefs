@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+mySqlDatabaseName=studentDb
+mySqlDatabasePassword=root
+mySqlDatabaseUser=root
+mySqlHostName=localhost
+mySqlIsConfigured=true
+mySqlJdbcJar=C\:\\Program Files (x86)\\MySQL\\Connector J 5.1.20.0\\mysql-connector-java-5.1.20-bin.jar
+mySqlPort=3307
